@@ -11,10 +11,10 @@ function Leaderboard() {
   }, []);
 
   return (
-    <div>
-      <h1>Leaderboard</h1>
-      <table>
-        <thead>
+    <div className="container">
+      <h1 className="text-center my-4">Leaderboard</h1>
+      <table className="table table-bordered">
+        <thead className="table-dark">
           <tr>
             <th>Username</th>
             <th>Score</th>
