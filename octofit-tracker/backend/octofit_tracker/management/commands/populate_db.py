@@ -16,7 +16,7 @@ class Command(BaseCommand):
         # Drop existing collections
         db.users.drop()
         db.teams.drop()
-        db.activities.drop()
+        db.activity.drop()
         db.leaderboard.drop()
         db.workouts.drop()
 

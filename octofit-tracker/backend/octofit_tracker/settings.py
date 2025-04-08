@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-44re!t@oz0^+8j)m8jqc-@h_z3fep-w9pp&u(ga9+a+2rhgypc
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['animated-space-bassoon-976xg5w6pv4qfv4-8000.app.github.dev', 'localhost']
 
 
 # Application definition
